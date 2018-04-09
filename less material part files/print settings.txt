@@ -1,0 +1,3 @@
+.15mm layer height
+raft, support
+30% infill
